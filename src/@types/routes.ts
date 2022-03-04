@@ -1,10 +1,7 @@
 import { NativeStackNavigationProp } from "@react-navigation/native-stack";
 
 export type Routes = {
-  Greeting: undefined;
-  ChoseEvent: undefined;
-  Available: undefined;
-  Event: undefined;
+  // put your routes here
 };
 
 export type Navigation = NativeStackNavigationProp<Routes>;
